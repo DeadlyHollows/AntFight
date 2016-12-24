@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.health {
+	height: 1.8rem;
+	margin: 1rem;
+}
+
+canvas {
+	width: 100%;
+	height: 100%;
+}
+
+.win {
+	/* STYLE IT PROPERLY !!!*/
+	color: white;
+	position: fixed;
+	display: none;
+	border: thin solid #fff;
+	padding: 3rem;
+	left: 30vw;
+	top: 30vh;
+}
